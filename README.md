@@ -21,7 +21,7 @@
 
 1️⃣ **Clone repository ini**
 ```bash
-   git clone https://github.com/kadez-406/KADTEST.git
+   git clone https://github.com/KADEZ-406/KADTEST.git
    cd KADTEST
 ```
 
@@ -48,7 +48,7 @@
 ## 🤝 Kontribusi & Support
 
 Kalau lu punya saran, fitur baru, atau nemu bug, jangan ragu buat open issue atau pull request di repo ini! 💡🚀  
-Jangan lupa **star repo ini** ⭐ dan follow gue di GitHub **[@KADEZ-406](https://github.com/kadez-406)**! 🔥🐺
+Jangan lupa **star repo ini** ⭐ dan follow gue di GitHub **[@KADEZ-406](https://github.com/KADEZ-406)**! 🔥🐺
 
 ---
 ### 🎭 "Hack dengan etika, bukan dengan ego. Jadilah hunter, bukan cracker." 💀🔥
